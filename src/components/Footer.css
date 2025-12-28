@@ -1,0 +1,66 @@
+/* ================= FOOTER WRAPPER ================= */
+.custom-footer {
+  background: linear-gradient(135deg, #0f0f0f, #1c1c1c);
+  padding: 18px 25px;
+  color: #ddd;
+
+  /* 🔥 Sticky footer magic */
+  margin-top: auto;
+}
+
+/* ================= CONTAINER ================= */
+.footer-container {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* ================= LEFT SIDE ================= */
+.footer-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 14px;
+}
+
+.footer-left span {
+  letter-spacing: 0.4px;
+}
+
+.faq-link {
+  color: #aaa;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+.faq-link:hover {
+  color: #ff4d6d;
+}
+
+/* ================= RIGHT SIDE ================= */
+.footer-right {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.footer-right a {
+  color: #ddd;
+  font-size: 20px;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.footer-right a:hover {
+  color: #ff4d6d;
+  transform: translateY(-3px) scale(1.1);
+}
+
+/* ================= RESPONSIVE ================= */
+@media (max-width: 768px) {
+  .footer-container {
+    flex-direction: column;
+    gap: 12px;
+  }
+}

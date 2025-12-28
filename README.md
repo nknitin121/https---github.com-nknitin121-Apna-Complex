@@ -1,22 +1,14 @@
-# E-Commerce Website
+# Apna-Complex
 
-A Ecommerce Website made with React.js Framework.
+A Ecommerce Website named "Apna-Complex" made with React.js Framework.
 
-
-## Demo
-
-https://reactjs-ecommerce-app.vercel.app/
 
 ## Features
 
-- Easy to integrate with Backend
-- Fully Responsive
-
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
-
+- Responsive and mobile-friendly design  
+- Product listing and browsing  
+- Clean and intuitive user interface  
+- Easy to extend with backend integration 
 
 
 ## Run Locally
@@ -24,7 +16,7 @@ https://reactjs-ecommerce-app.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/nknitin121/Apna-Complex
 ```
 
 Go to the project directory
@@ -62,6 +54,6 @@ Just raise an issue, we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
+If you have any feedback, please reach out to me [here](https://nknitin121.github.io)
 
 

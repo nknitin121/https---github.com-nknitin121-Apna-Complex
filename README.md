@@ -1,6 +1,6 @@
 # Apna-Complex
 
-A Ecommerce Website named "Apna-Complex" made with React.js Framework.
+Apna Complex is a modern eCommerce web application built to deliver a smooth and responsive online shopping experience. It features product browsing, interactive UI, and efficient client-side rendering, focusing on usability, performance, and clean design for real-world shopping scenarios.
 
 
 ## Features
@@ -48,12 +48,13 @@ Start the server
 
 ## Contributing
 
-Contributions are always welcome!
-Just raise an issue, we will discuss it.
-
+Contributions, suggestions, and improvements are always welcome.
+Feel free to open an issue or submit a pull request — meaningful collaboration is appreciated.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://nknitin121.github.io)
+If you have any feedback, questions, or collaboration ideas,
+please feel free to reach out to me here[https://github.com/nknitin121/Apna-Complex].
+I’m always open to learning and improving.
 
 

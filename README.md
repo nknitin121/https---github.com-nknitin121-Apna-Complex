@@ -1,3 +1,6 @@
+Apna Complex is a modern eCommerce web application built to deliver a smooth and responsive online shopping experience. It features product browsing, interactive UI, and efficient client-side rendering, focusing on usability, performance, and clean design for real-world shopping scenarios.
+
+Features
 # Apna-Complex
 
 Apna Complex is a modern eCommerce web application built to deliver a smooth and responsive online shopping experience. It features product browsing, interactive UI, and efficient client-side rendering, focusing on usability, performance, and clean design for real-world shopping scenarios.
